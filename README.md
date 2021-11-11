@@ -1,4 +1,4 @@
-# aoi.js
+# AoiJS Community Docs
 
 Welcome to AoiJS community docs!
 
